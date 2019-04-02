@@ -1,0 +1,9 @@
+Aaron Teh: 
+I did the preord part. It wasn't too bad because we did the preord in the BST lab and all I had to do 
+was check if the right and left children were none or existent. 
+I also tested all the files and made sure that our code worked to encode and decode.
+
+
+Hayden Tam: 
+I did the decoding part and the helper function goDown. The trouble I had was going through every part of the tree
+but I realized that we are reading the encoded file so I just reset the child to the root each time I hit a leaf node.
