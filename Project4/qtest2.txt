@@ -1,0 +1,9 @@
+african:	2
+american:	2
+consuming:	2
+earthquake:	2
+f:	4
+punctuation:	1
+quicksorts:	2
+ront:	4
+sup:	6
