@@ -1,0 +1,6 @@
+def string_permutation(stringInput):
+    stringList=[]
+    for i in len(stringCut):
+        stringCut=stringInput.pop(i)
+        newString=string_permutation(stringCut)+stringCut
+        stringList+=newString
